@@ -1,0 +1,13 @@
+{
+    "expo": {
+     "name": "CalcCab",
+     "icon": "./assets/icon.png",
+     "version": "1.0.0",
+     "slug": "",
+     "sdkVersion": "XX.0.0",
+     "android": {
+       "package": "com.calccab",
+       "versionCode": "1.0.0"
+     }
+    }
+  }
